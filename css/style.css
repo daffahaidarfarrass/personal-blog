@@ -1,0 +1,26 @@
+/* Tambahkan ini di file CSS kustom Anda */
+.artikel{
+    margin-top: 30px;
+}
+.card:hover {
+    background-color: #f8f9fa; /* Warna latar belakang saat hover */
+    transform: scale(1.02); /* Membuat artikel sedikit membesar */
+    transition: all 0.3s ease-in-out; /* Transisi yang halus */
+  }
+a{
+    text-decoration: none;
+    color: black;
+}
+.card-text {
+    margin-top: 10px;
+    font-size: 15px;
+}
+.navbar-menu{
+    margin: 10px 0 0px 0;
+}
+.bg-secondary {
+    background-image: url('../aset/bg-header.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+  }

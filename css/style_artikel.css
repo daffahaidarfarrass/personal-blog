@@ -1,0 +1,18 @@
+a .col-md-6 {
+    text-decoration: none;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;   
+}
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #333;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
