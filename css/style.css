@@ -3,9 +3,9 @@
     margin-top: 30px;
 }
 .card:hover {
-    background-color: #f8f9fa; /* Warna latar belakang saat hover */
-    transform: scale(1.02); /* Membuat artikel sedikit membesar */
-    transition: all 0.3s ease-in-out; /* Transisi yang halus */
+    background-color: #f8f9fa;
+    transform: scale(1.02); 
+    transition: all 0.3s ease-in-out;
   }
 a{
     text-decoration: none;
